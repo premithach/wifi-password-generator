@@ -1,5 +1,5 @@
 # Objective
-The main objective of the provided code is to retrieve and display Wi-Fi network profiles and their corresponding passwords stored on a Windows system. It does this by utilizing the 'netsh' command-line utility to interact with the system's wireless LAN configuration and then parsing the output to extract relevant information. 
+The main objective of this project is to retrieve and display Wi-Fi network profiles and their corresponding passwords stored on a Windows system. It does this by utilizing the 'netsh' command-line utility to interact with the system's wireless LAN configuration and then parsing the output to extract relevant information. 
 
 # Features
 1. Retrieves and displays Wi-Fi network profiles and passwords on a Windows system.
